@@ -30,12 +30,11 @@ A responsive React application displaying real-time London Underground tube line
 
 ```bash
 # Clone the repository
-git clone https://github.com/idrisreact/tfl-tube-status-challenge
+git clone <repository-url>
 cd tfl_coding_challenge
 
 # Install dependencies
 npm install
-```
 
 # Set up environment variables
 cp .env.example .env
