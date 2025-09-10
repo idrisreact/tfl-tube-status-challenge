@@ -37,6 +37,10 @@ cd tfl_coding_challenge
 npm install
 ```
 
+# Set up environment variables
+cp .env.example .env
+```
+
 ### Development
 
 ```bash
